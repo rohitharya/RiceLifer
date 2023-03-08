@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "170557423956",
+    "project_id": "rice-lifer-3d373",
+    "storage_bucket": "rice-lifer-3d373.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170557423956:android:27108fb5df5375bb5688c1",
+        "android_client_info": {
+          "package_name": "com.rithiv.ricelife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170557423956-11tj88coj9fgvrpq9ng0rdrjopl9kgpt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWgt2cNzAdZSEwPlMt80SrgtM4YHE2vh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170557423956-11tj88coj9fgvrpq9ng0rdrjopl9kgpt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
